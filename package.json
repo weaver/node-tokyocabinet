@@ -26,7 +26,6 @@
         }
     ],
     "dependencies": {
-        "lib": "tokyocabinet"
     },
     "engines": [
         "node"
