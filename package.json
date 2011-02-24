@@ -1,7 +1,9 @@
 {
-    "name": "node-tokyocabinet",
+    "name": "tokyocabinet",
     "description": "Tokyo Cabinet binding for node.js",
-    "version": "0.0.3",
+    "version": "0.0.4",
+    "main": "./build/default/tokyocabinet.node",
+    "directories": { "lib": "./lib" },
     "keywords": [
         "node.js",
         "tokyo cabinet"
@@ -26,7 +28,6 @@
         }
     ],
     "dependencies": {
-        "lib": "tokyocabinet"
     },
     "engines": [
         "node"
