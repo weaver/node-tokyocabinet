@@ -1,7 +1,7 @@
 {
     "name": "node-tokyocabinet",
     "description": "Tokyo Cabinet binding for node.js",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "keywords": [
         "node.js",
         "tokyo cabinet"
