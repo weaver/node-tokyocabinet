@@ -1,4 +1,4 @@
-var tc = require('./tokyocabinet');
+var tc = require('./build/default/tokyocabinet');
 
 exports.HashDB = HashDB;
 
